@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-image: url(./screen-5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#box { 
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background: none;
+    left: 200px;
+    top: 200px;
+}
